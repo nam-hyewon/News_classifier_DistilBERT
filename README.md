@@ -30,6 +30,6 @@ For step-by-step and interactive execution, ```notebooks/news_classification.ipy
 
 
 ### 💡 Notes
-No checkpoints or large artifacts are included in the repository.
-The DistilBERT model is downloaded automatically during training.
-All results are fully reproducible using the script above.
+- No checkpoints or large artifacts are included in the repository.
+- The DistilBERT model is downloaded automatically during training.
+- All results are fully reproducible using the script above.
